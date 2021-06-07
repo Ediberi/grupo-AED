@@ -1,0 +1,9 @@
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\ACESSODADOS\bin\Debug\ACESSODADOS.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\ACESSODADOS\bin\Debug\ACESSODADOS.pdb
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\ACESSODADOS\obj\Debug\ACESSODADOS.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\ACESSODADOS\obj\Debug\ACESSODADOS.pdb
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\ACESSODADOS\bin\Debug\ACESSODADOS.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\ACESSODADOS\bin\Debug\ACESSODADOS.pdb
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\ACESSODADOS\obj\Debug\ACESSODADOS.csprojResolveAssemblyReference.cache
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\ACESSODADOS\obj\Debug\ACESSODADOS.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\ACESSODADOS\obj\Debug\ACESSODADOS.pdb
